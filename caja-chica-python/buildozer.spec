@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = Caja Chica
+title = Pequeño Contador
 
 # (str) Package name
-package.name = cajachica
+package.name = pequenocontador
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = com.cajachica
+package.domain = com.pequenocontador
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -81,7 +81,7 @@ fullscreen = 0
 # red, blue, green, black, white, gray, cyan, magenta, yellow, lightgray,
 # darkgray, grey, lightgrey, darkgrey, aqua, fuchsia, lime, maroon, navy,
 # olive, purple, silver, teal.
-android.presplash_color = #0f0f23
+android.presplash_color = #F5F5F7
 
 # (string) Presplash animation using Lottie format.
 # see https://lottiefiles.com/ for examples and https://airbnb.design/lottie/
